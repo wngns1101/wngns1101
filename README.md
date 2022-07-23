@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋 -->
-![wngns1101's github stats](https://github-readme-stats.vercel.app/api?username=wngns1101&show_icons=true)
+![wngns1101's github stats](https://github-readme-stats.vercel.app/api?username=wngns1101&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wngns0812)](https://solved.ac/wngns0812)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wngns1101&layout=compact&theme=dark)
 <!--
