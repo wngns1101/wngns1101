@@ -1,4 +1,13 @@
-<!-- ### Hi there 👋 -->
+Hi there 👋
+
+<div align=center>
+	<p>✨ Languages ✨</p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
+  <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/> 
+  <img alt="Java" src ="https://img.shields.io/badge/Java-607078.svg?&style=flat-square&logo=Java&logoColor=white"/>
+  ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+</div>
+
 ![wngns1101's github stats](https://github-readme-stats.vercel.app/api?username=wngns1101&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wngns1101&layout=compact&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wngns0812)](https://solved.ac/wngns0812)
