@@ -16,11 +16,12 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"/>
 </div>
-<div align="center">
+<p align="center"> 
+	<img src="https://github-readme-stats.vercel.app/api?username=wngns1101&theme=vue&show_icons=true"/></a>
 	![wngns1101's github stats](https://github-readme-stats.vercel.app/api?username=wngns1101&show_icons=true&theme=radical)<br>
+</p>
 	![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wngns1101&layout=compact&theme=radical)<br>
 	[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wngns0812)](https://solved.ac/wngns0812)<br>
-</div>	
 	
     
 <!--
