@@ -18,13 +18,10 @@
 </div>
 <div align="center">
 	![wngns1101's github stats](https://github-readme-stats.vercel.app/api?username=wngns1101&show_icons=true&theme=radical)
-</div>	
-<div align="center">
 	![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wngns1101&layout=compact&theme=radical)
-</div>
-<div align="center">
 	[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wngns0812)](https://solved.ac/wngns0812)
-</div>
+</div>	
+	
     
 <!--
 **wngns1101/wngns1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
